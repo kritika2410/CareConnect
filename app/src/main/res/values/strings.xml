@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CareConnect</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="cont">NEXT</string>
+
+    <string name="slide_1_title">Welcome to Care Connect</string>
+    <string name="slide_1_desc">Hi</string>
+    <string name="slide_2_title">Fastest Job search</string>
+    <string name="slide_2_desc">Fastest Job search</string>
+    <string name="slide_3_title">Hi</string>
+    <string name="slide_3_desc"></string>
+
+    <style name="DatePickerStyle" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:background">@drawable/edittext_background</item>
+    </style>
+
+</resources>
